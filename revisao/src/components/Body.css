@@ -1,0 +1,17 @@
+.container-body{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(51, 48, 45);
+    justify-content: center;
+    align-items: flex-start;
+    height: calc(100vh - 60px);
+    /*min-height: calc(100vh - 60px);*/
+}
+
+.img-visu4life{
+    height: 300px;
+    width: 600px;
+    
+}

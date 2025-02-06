@@ -1,0 +1,11 @@
+
+.container-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    /*flex-direction: column;*/
+    background-color: #b3b3b3;
+    height: 60px;
+    
+}
