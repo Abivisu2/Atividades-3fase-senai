@@ -1,0 +1,26 @@
+
+.container-demo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+}
+
+.div-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 1rem;
+}
+
+.btnContador{
+    width: 60px;
+    height: 30px;
+    background-color: rgb(209, 175, 22);
+    color: aliceblue;
+    border: 0px solid;
+    border-radius: 15px;
+    
+}

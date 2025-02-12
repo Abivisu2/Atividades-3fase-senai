@@ -1,3 +1,33 @@
+
 .container-demo1{
-    border: 1px solid red;
+
+    border: 5px solid rgb(209, 175, 22);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80%;
+   
+}
+
+.img-african-family{
+    width: 20%;
+
+}
+
+.btn{
+    width: 200px;
+    height: 60px;
+    
+}
+
+.icon-basket{
+    width: 50px;
+    height: 50px;
+    color: red;
+}
+
+.icon-basket:hover{
+    scale: 1.1;
 }

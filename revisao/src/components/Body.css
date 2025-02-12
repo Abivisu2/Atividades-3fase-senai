@@ -3,15 +3,16 @@
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(51, 48, 45);
-    justify-content: center;
-    align-items: flex-start;
-    height: calc(100vh - 60px);
-    /*min-height: calc(100vh - 60px);*/
+    background-color: rgb(107, 95, 83);
+    min-height: calc(100vh - 60px);
+    gap: 2rem;
+    
 }
 
 .img-visu4life{
     height: 300px;
     width: 600px;
+    border-radius: 5px;
     
 }
+
