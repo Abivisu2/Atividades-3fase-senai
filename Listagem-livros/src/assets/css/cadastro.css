@@ -1,0 +1,36 @@
+.botoes {
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 20px;
+
+   
+}
+
+.botao-formulario {
+    margin-left: 19px;
+    background-color: #535bf2;
+    color: #f2f2f2;
+    border: solid 0px;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+.formulario {
+    width: 90%;
+    
+}
+
+.campo-formulario {
+    margin-bottom: 10px;
+    
+}
+
+.input-formulario {
+    margin-top: 2px;
+    min-width: 50%;
+    border-radius: 15px;
+    width: 300px;
+    height: 20px;
+    border: solid #6b70d1;
+}

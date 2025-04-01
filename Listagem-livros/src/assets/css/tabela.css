@@ -1,0 +1,20 @@
+table {
+    width: 90%;
+}
+
+th {
+    text-align: center;
+}
+
+.acoes {
+    text-align: center;
+}
+
+.btn{
+    background-color: #535bf2;
+    color: #f2f2f2;
+    border: solid 0px;
+    border-radius: 15px;
+    width: 80px;
+    height: 20px;
+}

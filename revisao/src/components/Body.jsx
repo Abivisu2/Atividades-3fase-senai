@@ -14,7 +14,7 @@ function Body() {
         <Demo2/>
         <Demo1/>
 
-        <img className='img-visu4life' src="public/images/Visu4life.jpg" alt="Visú4life" />
+        {/* <img className='img-visu4life' src="public/images/Visu4life.jpg" alt="Visú4life" /> */}
       
     </div>
 

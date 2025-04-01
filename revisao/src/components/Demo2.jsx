@@ -21,9 +21,8 @@ const [usuario, setUsuario]= useState('')
 
         </div>
 
-        <button onClick={() => {setUsuario(prompt("digita seu nome: "))}}>fazer login
-
-
+        <button onClick={() => {setUsuario(prompt("digita seu nome: "))}}>
+          fazer login
         </button>
 
         {/*Renderização condicional*/}
